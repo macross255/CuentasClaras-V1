@@ -1,6 +1,6 @@
 
 
-# "Cuentas-Claras"
+# "Cuentas-Claras V1"
 Es una aplicación para calcular la cantidad mínima de dinero que tiene que circular entre los miembros una banda para igualar (hasta un centavo) los gastos de la misma.
 ### Detalles importantes:
 -Cada miembro no puede gastar más
