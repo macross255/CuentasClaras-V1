@@ -1,0 +1,19 @@
+{
+  "name": "demo-1",
+  "version": "1.0.0",
+  "description": "demo1",
+  "main": "src/script.js",
+  "scripts": {
+    "start": "node src/script.js",
+    "test": "jasmine"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "Joe",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^3.8.0"
+  }
+}
